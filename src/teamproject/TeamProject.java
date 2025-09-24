@@ -2,7 +2,7 @@ package teamproject;
 
 import java.util.Scanner;
 
-public class TeamProject1 {
+public class TeamProject {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int moeny = 0;
